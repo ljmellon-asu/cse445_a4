@@ -15,9 +15,9 @@
             <City> Grand Canyon </City>
             <State> AZ </State>
             <Zip> 86023 </Zip>
-            <nearestAirport> Flagstaff </nearestAirport>
+            <NearestAirport> Flagstaff </NearestAirport>
         </Address>
-        <rating> 4.9 </rating>
+        <Rating> 4.9 </Rating>
     </NationalPark>
 
     <!-- National Park 1 -->
@@ -31,9 +31,9 @@
             <City> Luray </City>
             <State> VA</State>
             <Zip> 22835 </Zip>
-            <nearestAirport> Charlottesville–Albemarle </nearestAirport>
+            <NearestAirport> Charlottesville–Albemarle </NearestAirport>
         </Address>
-        <rating> 4.8 </rating>
+        <Rating> 4.8 </Rating>
     </NationalPark>
 
     <!-- National Park 2 -->
@@ -48,9 +48,9 @@
             <City> Lansing </City>
             <State> WV </State>
             <Zip>  25862 </Zip>
-            <nearestAirport> Raleigh County Memorial</nearestAirport>
+            <NearestAirport> Raleigh County Memorial</NearestAirport>
         </Address>
-        <rating> 4.9 </rating>
+        <Rating> 4.9 </Rating>
     </NationalPark>
 
     <!-- National Park 3 -->
@@ -63,9 +63,9 @@
             <City> Hopkins </City>
             <State> SC </State>
             <Zip> 29061 </Zip>
-            <nearestAirport> Gwinn Field </nearestAirport>
+            <NearestAirport> Gwinn Field </NearestAirport>
         </Address>
-        <rating> 4.7 </rating>
+        <Rating> 4.7 </Rating>
     </NationalPark>
 
     <!-- National Park 4 -->
@@ -78,9 +78,9 @@
             <City> Gatlinburg </City>
             <State> TN </State>
             <Zip> 37738 </Zip>
-            <nearestAirport> Gatlinburg-Pigeon Forge </nearestAirport>
+            <NearestAirport> Gatlinburg-Pigeon Forge </NearestAirport>
         </Address>
-        <rating> 4.9 </rating>
+        <Rating> 4.9 </Rating>
     </NationalPark>
 
     <!-- National Park 5 -->
@@ -93,9 +93,9 @@
             <City> Mammoth Cave </City>
             <State> KY </State>
             <Zip> 86023 </Zip>
-            <nearestAirport> Glasgow Municipal </nearestAirport>
+            <NearestAirport> Glasgow Municipal </NearestAirport>
         </Address>
-        <rating> 4.7 </rating>
+        <Rating> 4.7 </Rating>
     </NationalPark>
 
     <!-- National Park 6 -->
@@ -108,9 +108,9 @@
             <City> Homestead </City>
             <State> FL </State>
             <Zip>  33033 </Zip>
-            <nearestAirport> Miami Homestead General Aviation Airport </nearestAirport>
+            <NearestAirport> Miami Homestead General Aviation Airport </NearestAirport>
         </Address>
-        <rating> 4.9 </rating>
+        <Rating> 4.9 </Rating>
     </NationalPark>
 
     <!-- National Park 7 -->
@@ -123,9 +123,9 @@
             <City> Bar Harbor </City>
             <State> ME </State>
             <Zip> 04609 </Zip>
-            <nearestAirport> Hancock County-Bar Harbor </nearestAirport>
+            <NearestAirport> Hancock County-Bar Harbor </NearestAirport>
         </Address>
-        <rating> 4.7 </rating>
+        <Rating> 4.7 </Rating>
     </NationalPark>
 
     <!-- National Park 8 -->    
@@ -138,9 +138,9 @@
             <City> Hot Springs </City>
             <State> AR </State>
             <Zip>  71901 </Zip>
-            <nearestAirport> Hot Springs Memorial Field  </nearestAirport>
+            <NearestAirport> Hot Springs Memorial Field  </NearestAirport>
         </Address>
-        <rating> 4.7 </rating>
+        <Rating> 4.7 </Rating>
     </NationalPark>
 
     <!-- National Park 9 -->
@@ -153,9 +153,9 @@
             <City> Big Bend National Park </City>
             <State> TX </State>
             <Zip> 79834 </Zip>
-            <nearestAirport> Alpine-Casparis Municipal </nearestAirport>
+            <NearestAirport> Alpine-Casparis Municipal </NearestAirport>
         </Address>
-        <rating> 4.7 </rating>
+        <Rating> 4.7 </Rating>
     </NationalPark>
 
     <!-- National Park 10 -->
@@ -168,9 +168,9 @@
             <City>  Interior </City>
             <State> SD </State>
             <Zip> 57750 </Zip>
-            <nearestAirport> Rapid City Regional </nearestAirport>
+            <NearestAirport> Rapid City Regional </NearestAirport>
         </Address>
-        <rating> 4.9 </rating>
+        <Rating> 4.9 </Rating>
     </NationalPark>
 
 </NationalParks>
