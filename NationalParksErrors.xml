@@ -1,0 +1,170 @@
+<NationalPark xsi:schemaLocation="https://ljmellon-asu.github.io/cse445_a4/NationalParks.xsd">
+   
+    <!-- Grand Canyon National Park -->
+    <NationalPark>
+        <Name> Grand Canyon </Name>
+        <phone> 928-638-7496 </phone>
+        <phone> 888-297-2757 </phone>
+        <phone> 888-499-2574 </phone>
+        <Address> 
+            <Number> 8 </Number>
+            <Street> S Entrance Road </Street>
+            <City> Grand Canyon </City>
+            <State> AZ </State>
+            <Zip> 86023 </Zip>
+        </Address>
+        <rating> 4.9 </rating>
+    </NationalPark>
+
+    <!-- National Park 1 -->
+    <NationalPark>
+        <Name> Shenandoah </Name>
+        <phone> 1-800-732-0911 </phone>
+        <phone> (540) 999-3500 </phone>
+        <Address> 
+            <Number> 3655 </Number>
+            <Street> U.S. Highway 211 East </Street>
+            <City> Luray </City>
+            <State> VA</State>
+            <Zip> 22835 </Zip>
+            <nearestAirport> Charlottesville–Albemarle </nearestAirport>
+        </Address>
+        <rating> 4.8 </rating>
+    </NationalPark>
+
+    <!-- National Park 2 -->
+    <NationalPark>
+        <Name> New River Gorge </Name>
+        <Address> 
+            <Number> 162 </Number>
+            <Street> Visitor Center Rd </Street>
+            <City> Lansing </City>
+            <State> WV </State>
+            <Zip>  25862 </Zip>
+            <nearestAirport> Raleigh County Memorial</nearestAirport>
+        </Address>
+        <rating> 4.9 </rating>
+    </NationalPark>
+
+    <!-- National Park 3 -->
+    <NationalPark>
+        <Name> Congaree </Name>
+        <phone> 803 776-4396 </phone>
+        <Address> 
+            <Number> 100 </Number>
+            <Street> National Park Road </Street>
+            <City> Hopkins </City>
+            <State> SC </State>
+            <Zip> 29061 </Zip>
+            <nearestAirport> Gwinn Field </nearestAirport>
+        </Address>
+        <rating> 4.7 </rating>
+    </NationalPark>
+
+    <!-- National Park 4 -->
+    <NationalPark>
+        <Name> Great Smoky Mountains </Name>
+        <phone> (865)436-1200 </phone>
+        <Address> 
+            <Number> 107 </Number>
+            <Street> Park Headquarters Road </Street>
+            <City> Gatlinburg </City>
+            <State> TN </State>
+            <Zip> 37738 </Zip>
+            <nearestAirport> Gatlinburg-Pigeon Forge </nearestAirport>
+        <rating> 4.9 </rating>
+    </NationalPark>
+
+    <!-- National Park 5 -->
+    <NationalPark>
+        <Name> Mammoth Cave </Name>
+        <Name> Cave of Mammoth </Name>
+        <phone> 270 758-2180 </phone>
+        <Address> 
+            <Number> 1 </Number>
+            <Street> Mammoth Cave Parkway </Street>
+            <City> Mammoth Cave </City>
+            <State> KY </State>
+            <Zip> 86023 </Zip>
+            <nearestAirport> Glasgow Municipal </nearestAirport>
+        </Address>
+        <rating> 4.7 </rating>
+    </NationalPark>
+
+   <!-- National Park 6 -->
+    <NationalPark>
+        <Name> Biscayne </Name>
+        <phone> 786-335-3620 </phone>
+        <Address> 
+            <Number> 9700 </Number>
+            <Street> SW 328th Street Sir Lancelot Jones Way  </Street>
+            <City> Homestead </City>
+            <State> FL </State>
+            <Zip>  33033 </Zip>
+            <nearestAirport> Miami Homestead General Aviation Airport </nearestAirport>
+        </Address>
+        <rating> 4.9 </rating>
+    </NationalPark>
+
+
+    <!-- National Park 7 -->
+    <NationalPark>
+        <Name> Acadia </Name>
+        <phone> 207 288-3338 </phone>
+        <Address> 
+            <Number> 25  </Number>
+            <Street> Visitor Center Road </Street>
+            <City> Bar Harbor </City>
+            <State> ME </State>
+            <Zip> 04609 </Zip>
+            <nearestAirport> Hancock County-Bar Harbor </nearestAirport>
+        </Address>
+        <rating> 4.9 </rating>
+    </NationalPark>
+
+    <!-- National Park 8 -->    
+    <NationalPark>
+        <Name> Hot Springs </Name>
+        <phone> 501 620-6715 </phone>
+        <Address> 
+            <Number> 101 </Number>
+            <Street> Reserve Street </Street>
+            <City> Hot Springs </City>
+            <State> AR </State>
+            <Zip>  71901 </Zip>
+            <nearestAirport> Hot Springs Memorial Field  </nearestAirport>
+        </Address>
+        <rating> 4.7 </rating>
+    </NationalPark>
+
+    <!-- National Park 9 -->
+    <NationalPark>
+        <Name> Big Bend </Name>
+        <phone> 432-477-2251 </phone>
+        <Address> 
+            <Number> 1 </Number>
+            <Street> Alsate Dr </Street>
+            <City> Big Bend National Park </City>
+            <State> TX </State>
+            <Zip> 79834 </Zip>
+            <nearestAirport> Alpine-Casparis Municipal </nearestAirport>
+        </Address>
+        <rating> 4.7 </rating>
+    </NationalPark>
+
+    <!-- National Park 10 -->
+    <NationalPark>
+        <Name> Badlands </Name>
+        <phone> 605 433-5361 </phone>
+        <Address> 
+            <Number> 25216 </Number>
+            <Street> Ben Reifel Road </Street>
+            <City>  Interior </City>
+            <State> SD </State>
+            <Zip> 57750 </Zip>
+            <nearestAirport> Rapid City Regional </nearestAirport>
+        </Address>
+        <rating> 4.9 </rating>
+    </NationalPark>
+
+</NationalPark>
