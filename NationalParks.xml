@@ -4,173 +4,151 @@
     xsi:schemaLocation="https://ljmellon-asu.github.io/cse445_a4/NationalParks.xml https://ljmellon-asu.github.io/cse445_a4/NationalParks.xsd">
    
     <!-- Grand Canyon National Park -->
-    <NationalPark>
+    <NationalPark Rating = "4.9">
         <Name> Grand Canyon </Name>
         <Phone> 928-638-7496 </Phone>
         <Phone> 888-297-2757 </Phone>
         <Phone> 888-499-2574 </Phone>
-        <Address> 
+        <Address NearestAirport = "Flagstaff"> 
             <Number> 8 </Number>
             <Street> S Entrance Road </Street>
             <City> Grand Canyon </City>
             <State> AZ </State>
             <Zip> 86023 </Zip>
-            <NearestAirport> Flagstaff </NearestAirport>
         </Address>
-        <Rating> 4.9 </Rating>
     </NationalPark>
 
     <!-- National Park 1 -->
-    <NationalPark>
+    <NationalPark Rating = "4.8">
         <Name> Shenandoah </Name>
         <Phone> 1-800-732-0911 </Phone>
         <Phone> (540) 999-3500 </Phone>
-        <Address> 
+        <Address NearestAirport = "Charlottesville–Albemarle">  
             <Number> 3655 </Number>
             <Street> U.S. Highway 211 East </Street>
             <City> Luray </City>
             <State> VA</State>
             <Zip> 22835 </Zip>
-            <NearestAirport> Charlottesville–Albemarle </NearestAirport>
         </Address>
-        <Rating> 4.8 </Rating>
     </NationalPark>
 
     <!-- National Park 2 -->
-    <NationalPark>
+    <NationalPark Rating = "4.9">
         <Name> New River Gorge </Name>
         <Phone> (304) 465-0508  </Phone>
         <Phone> (304) 574-2115 </Phone>
         <Phone> (304) 466-0417 </Phone>
-        <Address> 
+        <Address NearestAirport = "Raleigh County Memorial"> 
             <Number> 162 </Number>
             <Street> Visitor Center Rd </Street>
             <City> Lansing </City>
             <State> WV </State>
             <Zip>  25862 </Zip>
-            <NearestAirport> Raleigh County Memorial</NearestAirport>
         </Address>
-        <Rating> 4.9 </Rating>
     </NationalPark>
 
     <!-- National Park 3 -->
-    <NationalPark>
+    <NationalPark Rating = "4.7">
         <Name> Congaree </Name>
         <Phone> 803 776-4396 </Phone>
-        <Address> 
+        <Address NearestAirport = "Gwinn Field"> 
             <Number> 100 </Number>
             <Street> National Park Road </Street>
             <City> Hopkins </City>
             <State> SC </State>
             <Zip> 29061 </Zip>
-            <NearestAirport> Gwinn Field </NearestAirport>
         </Address>
-        <Rating> 4.7 </Rating>
     </NationalPark>
 
     <!-- National Park 4 -->
-    <NationalPark>
+    <NationalPark Rating = "4.9">
         <Name> Great Smoky Mountains </Name>
         <Phone> (865)436-1200 </Phone>
-        <Address> 
+        <Address NearestAirport = "Gatlinburg-Pigeon Forge"> 
             <Number> 107 </Number>
             <Street> Park Headquarters Road </Street>
             <City> Gatlinburg </City>
             <State> TN </State>
             <Zip> 37738 </Zip>
-            <NearestAirport> Gatlinburg-Pigeon Forge </NearestAirport>
         </Address>
-        <Rating> 4.9 </Rating>
     </NationalPark>
 
     <!-- National Park 5 -->
-    <NationalPark>
+    <NationalPark Rating = "4.7">
         <Name> Mammoth Cave </Name>
         <Phone> 270 758-2180 </Phone>
-        <Address> 
+        <Address NearestAirport = "Glasgow Municipal"> 
             <Number> 1 </Number>
             <Street> Mammoth Cave Parkway </Street>
             <City> Mammoth Cave </City>
             <State> KY </State>
             <Zip> 86023 </Zip>
-            <NearestAirport> Glasgow Municipal </NearestAirport>
         </Address>
-        <Rating> 4.7 </Rating>
     </NationalPark>
 
     <!-- National Park 6 -->
-    <NationalPark>
+    <NationalPark Rating = "4.9">
         <Name> Biscayne </Name>
         <Phone> 786-335-3620 </Phone>
-        <Address> 
+        <Address NearestAirport = "Miami Homestead General Aviation Airport"> 
             <Number> 9700 </Number>
             <Street> SW 328th Street Sir Lancelot Jones Way  </Street>
             <City> Homestead </City>
             <State> FL </State>
             <Zip>  33033 </Zip>
-            <NearestAirport> Miami Homestead General Aviation Airport </NearestAirport>
         </Address>
-        <Rating> 4.9 </Rating>
     </NationalPark>
 
     <!-- National Park 7 -->
-    <NationalPark>
+    <NationalPark Rating = "4.7"    >
         <Name> Acadia </Name>
         <Phone> 207 288-3338 </Phone>
-        <Address> 
+        <Address NearestAirport = "Hancock County-Bar Harbor">
             <Number> 25  </Number>
             <Street> Visitor Center Road </Street>
             <City> Bar Harbor </City>
             <State> ME </State>
             <Zip> 04609 </Zip>
-            <NearestAirport> Hancock County-Bar Harbor </NearestAirport>
         </Address>
-        <Rating> 4.7 </Rating>
     </NationalPark>
 
     <!-- National Park 8 -->    
-    <NationalPark>
+    <NationalPark Rating = "4.7">
         <Name> Hot Springs </Name>
         <Phone> 501 620-6715 </Phone>
-        <Address> 
+        <Address NearestAirport = "Hot Springs Memorial Field">
             <Number> 101 </Number>
             <Street> Reserve Street </Street>
             <City> Hot Springs </City>
             <State> AR </State>
             <Zip>  71901 </Zip>
-            <NearestAirport> Hot Springs Memorial Field  </NearestAirport>
         </Address>
-        <Rating> 4.7 </Rating>
     </NationalPark>
 
     <!-- National Park 9 -->
-    <NationalPark>
+    <NationalPark Rating = "4.7">
         <Name> Big Bend </Name>
         <Phone> 432-477-2251 </Phone>
-        <Address> 
+        <Address NearestAirport = "Alpine-Casparis Municipal">
             <Number> 1 </Number>
             <Street> Alsate Dr </Street>
             <City> Big Bend National Park </City>
             <State> TX </State>
             <Zip> 79834 </Zip>
-            <NearestAirport> Alpine-Casparis Municipal </NearestAirport>
         </Address>
-        <Rating> 4.7 </Rating>
     </NationalPark>
 
     <!-- National Park 10 -->
-    <NationalPark>
+    <NationalPark Rating = "4.9">
         <Name> Badlands </Name>
         <Phone> 605 433-5361 </Phone>
-        <Address> 
+        <Address NearestAirport = "Rapid City Regional">            
             <Number> 25216 </Number>
             <Street> Ben Reifel Road </Street>
             <City>  Interior </City>
             <State> SD </State>
             <Zip> 57750 </Zip>
-            <NearestAirport> Rapid City Regional </NearestAirport>
         </Address>
-        <Rating> 4.9 </Rating>
     </NationalPark>
 
 </NationalParks>
