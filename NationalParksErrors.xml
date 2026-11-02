@@ -6,9 +6,9 @@
     <!-- Grand Canyon National Park -->
     <NationalPark>
         <Name> Grand Canyon </Name>
-        <phone> 928-638-7496 </phone>
-        <phone> 888-297-2757 </phone>
-        <phone> 888-499-2574 </phone>
+        <Phone> 928-638-7496 </Phone>
+        <Phone> 888-297-2757 </Phone>
+        <Phone> 888-499-2574 </Phone>
         <Address> 
             <Number> 8 </Number>
             <Street> S Entrance Road </Street>
@@ -23,8 +23,8 @@
     <!-- National Park 1 -->
     <NationalPark>
         <Name> Shenandoah </Name>
-        <phone> 1-800-732-0911 </phone>
-        <phone> (540) 999-3500 </phone>
+        <Phone> 1-800-732-0911 </Phone>
+        <Phone> (540) 999-3500 </Phone>
         <Address> 
             <Number> 3655 </Number>
             <Street> U.S. Highway 211 East </Street>
@@ -53,7 +53,7 @@
     <!-- National Park 3 -->
     <NationalPark>
         <Name> Congaree </Name>
-        <phone> 803 776-4396 </phone>
+        <Phone> 803 776-4396 </Phone>
         <Address> 
             <Number> 100 </Number>
             <Street> National Park Road </Street>
@@ -68,7 +68,7 @@
     <!-- National Park 4 -->
     <NationalPark>
         <Name> Great Smoky Mountains </Name>
-        <phone> (865)436-1200 </phone>
+        <Phone> (865)436-1200 </Phone>
         <Address> 
             <Number> 107 </Number>
             <Street> Park Headquarters Road </Street>
@@ -83,7 +83,7 @@
     <NationalPark>
         <Name> Mammoth Cave </Name>
         <Name> Cave of Mammoth </Name>
-        <phone> 270 758-2180 </phone>
+        <Phone> 270 758-2180 </Phone>
         <Address> 
             <Number> 1 </Number>
             <Street> Mammoth Cave Parkway </Street>
@@ -98,7 +98,7 @@
    <!-- National Park 6 -->
     <NationalPark>
         <Name> Biscayne </Name>
-        <phone> 786-335-3620 </phone>
+        <Phone> 786-335-3620 </Phone>
         <Address> 
             <Number> 9700 </Number>
             <Street> SW 328th Street Sir Lancelot Jones Way  </Street>
@@ -114,7 +114,7 @@
     <!-- National Park 7 -->
     <NationalPark>
         <Name> Acadia </Name>
-        <phone> 207 288-3338 </phone>
+        <Phone> 207 288-3338 </Phone>
         <Address> 
             <Number> 25  </Number>
             <Street> Visitor Center Road </Street>
@@ -129,7 +129,7 @@
     <!-- National Park 8 -->    
     <NationalPark>
         <Name> Hot Springs </Name>
-        <phone> 501 620-6715 </phone>
+        <Phone> 501 620-6715 </Phone>
         <Address> 
             <Number> 101 </Number>
             <Street> Reserve Street </Street>
@@ -144,7 +144,7 @@
     <!-- National Park 9 -->
     <NationalPark>
         <Name> Big Bend </Name>
-        <phone> 432-477-2251 </phone>
+        <Phone> 432-477-2251 </Phone>
         <Address> 
             <Number> 1 </Number>
             <Street> Alsate Dr </Street>
@@ -159,7 +159,7 @@
     <!-- National Park 10 -->
     <NationalPark>
         <Name> Badlands </Name>
-        <phone> 605 433-5361 </phone>
+        <Phone> 605 433-5361 </Phone>
         <Address> 
             <Number> 25216 </Number>
             <Street> Ben Reifel Road </Street>
