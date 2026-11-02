@@ -25,7 +25,7 @@
 			<xsd:element name="Address" type="AddressType" minOccurs="1" maxOccurs="1"/>
 		</xsd:sequence>
 		<!--attribute(s)-->
-		<xsd:attribute name="Rating" type="xsd:int" use="optional"/>
+		<xsd:attribute name="Rating" type="xsd:decimal" use="optional"/>
 	</xsd:complexType>
 	<!--address complex type-->
 	<xsd:complexType name="AddressType">
