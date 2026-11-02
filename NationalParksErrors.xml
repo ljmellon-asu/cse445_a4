@@ -1,4 +1,7 @@
-<NationalPark xsi:schemaLocation="https://ljmellon-asu.github.io/cse445_a4/NationalParks.xsd">
+<NationalParks
+    xmlns="https://ljmellon-asu.github.io/cse445_a4/NationalParks.xml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://ljmellon-asu.github.io/cse445_a4/NationalParks.xml https://ljmellon-asu.github.io/cse445_a4/NationalParks.xsd">
    
     <!-- Grand Canyon National Park -->
     <NationalPark>
@@ -12,6 +15,7 @@
             <City> Grand Canyon </City>
             <State> AZ </State>
             <Zip> 86023 </Zip>
+
         </Address>
         <rating> 4.9 </rating>
     </NationalPark>
