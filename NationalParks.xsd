@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="https://ljmellon-asu.github.io/cse445_a4/NationalParks.xml" elementFormDefault="qualified" attributeFormDefault="unqualified">
+<xsd:schema 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+	xmlns="https://ljmellon-asu.github.io/cse445_a4/NationalParks.xml"
+	targetNamespace="https://ljmellon-asu.github.io/cse445_a4/NationalParks.xml" 
+	elementFormDefault="qualified" attributeFormDefault="unqualified">
 	<xsd:annotation>
 		<xsd:documentation xml:lang="en">
 			Assignment 4
