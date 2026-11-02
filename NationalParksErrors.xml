@@ -54,6 +54,7 @@
             <City> Hopkins </City>
             <State> SC </State>
             <Zip> 29061 </Zip>
+        </Address>
     </NationalPark>
 
     <!-- National Park 4 -->
@@ -145,7 +146,6 @@
             <City>  Interior </City>
             <State> SD </State>
             <Zip> 57750 </Zip>
-        </Address>
     </NationalPark>
 
 </NationalPark>
